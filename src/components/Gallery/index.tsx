@@ -4,7 +4,6 @@ import { GalleryItem } from '../../pages/Home'
 import Section from '../Section'
 import { Action, Item, Items, Modal, ModalContent } from './styles'
 
-import spiderman from '../../assets/images/banner-homem-aranha.png'
 import play from '../../assets/images/botao-play 1.png'
 import lupa from '../../assets/images/mais-zoom 1.png'
 import fechar from '../../assets/images/close 1.png'
