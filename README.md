@@ -1,3 +1,34 @@
+🎮 E-Play - E-commerce de Games (Em Construção) 🚧
+Bem-vindo ao E-Play, meu projeto de aprendizado essencial para compreender integrações de API, tratamento de dados e gerenciamento de estado global em um contexto prático. Este é um e-commerce de games em constante evolução.
+
+Visão Geral
+O E-Play está sendo desenvolvido como um projeto de aprendizado para explorar e aplicar conceitos fundamentais na construção de um e-commerce realista de games. Atualmente, o projeto está em construção, mas já apresenta funcionalidades notáveis.
+
+Funcionalidades em Destaque
+Integração com API de Pagamento: Oferece uma experiência de compra autêntica com integração de API de pagamento simulada.
+
+Validação de Formulários: Implementa validação de formulários para garantir informações precisas durante o processo de compra.
+
+React Router Dom: Utiliza o React Router Dom para uma navegação suave entre as seções do site.
+
+Redux Toolkit Query: Gerenciamento de estado global e requisições à API de forma eficiente.
+
+Como Executar
+Clone este repositório: git clone https://github.com/seu-usuario/e-play.git
+Instale as dependências: npm install
+Inicie o aplicativo: npm start
+Sinta-se à vontade para explorar e experimentar o E-Play!
+
+![image](https://github.com/MozartSoares/eplay/assets/142760312/419b98aa-a04c-4ba9-b91c-9a0729ea7961)
+
+
+Notas
+Este projeto está em constante evolução e é parte do meu processo de aprendizado.
+A interface do site é projetada para simular um verdadeiro e-commerce de games.
+Contribuições e sugestões são bem-vindas enquanto continuo aprimorando o E-Play. 🎉
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
