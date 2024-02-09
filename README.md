@@ -28,8 +28,6 @@ Contribuições são bem-vindas! Se você tem sugestões de melhorias ou encontr
 
 Agradeço por explorar o E-play! 🚀
 
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

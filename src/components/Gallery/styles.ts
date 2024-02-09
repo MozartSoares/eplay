@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { cores } from '../../styles'
+import { colors } from '../../styles'
 
 export const Items = styled.ul`
   display: flex;
@@ -25,7 +25,7 @@ export const Item = styled.li`
   position: relative;
 
   > img {
-    border: 2px solid ${cores.branco};
+    border: 2px solid ${colors.white};
     border-radius: 8px;
     width: 150px;
     height: 150px;
@@ -34,7 +34,7 @@ export const Item = styled.li`
 
   &:hover {
     ${Action} {
-      cursor: pointer;
+      cursor: zoom-in;
       opacity: 1;
       transition: opacity 0.5s ease;
     }

@@ -1,7 +1,7 @@
 import { styled } from 'styled-components'
 import { TagContainer } from '../Tag/styles'
 
-export const Imagem = styled.div`
+export const Image = styled.div`
   position: relative;
   width: 100%;
   height: 560px;
