@@ -1,4 +1,4 @@
-# E-play (Em Construção) 🎮
+# Eplay 🎮
 
 Bem-vindo ao projeto E-play, um e-commerce de games em constante evolução e essencial para meu aprendizado em integrações de API, tratamento de dados e gerenciamento de estado global.
 
@@ -8,11 +8,13 @@ O E-play é um e-commerce de jogos em construção, sendo uma parte crucial do m
 
 ## Recursos Principais
 
-- **Integração com API de Pagamento:** Possui uma integração fluida com APIs de pagamento, proporcionando uma experiência de compra segura e eficiente.
+- **Integração com API de Pagamento:** Possui uma integração fluida com APIs que simulam pagamento, proporcionando uma experiência de compra segura e eficiente.
 
-- **Validação de Formulários:** Implementa validação de formulários para garantir dados precisos e válidos.
+-- **Integração com API de Produtos e Redux toolkit query:** O site é totalmente integrado e preenchido via API e preenchido e gerenciado pelo redux toolkit query. 
 
-- **Gerenciamento de Estado Global:** Utiliza `Redux Toolkit Query` para o gerenciamento eficiente do estado global da aplicação.
+- **Validação de Formulários:** Implementa validação de formulários para garantir dados precisos e válidos por meio do uso de Formik e Yup.
+
+- **Gerenciamento de Estado Global:** Utiliza `Redux` para o gerenciamento eficiente do estado global da aplicação.
 
 ## Interface Realista
 
